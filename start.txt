@@ -1,0 +1,28 @@
+https://derivv.com/ site de corte de imagens
+https://squoosh.app/ site de compressao de imagens
+
+tabela tamanho de telas:
+full-hd: 1920px 
+hd-plus: 1366px
+hd: 1280px X 720px
+sd: 991px
+tablet: 767px orientation: portrait
+celular deitado: 767px orientation: landscape
+celular em pe: 480px a 360px orientation: portrait
+
+------------------------------------------------------------------------
+Sistema de Tamanhos - https://typescale.com/ 
+
+Fontes - Minor Third - 1.200 
+
+0.44rem - 0.54rem - 0.64rem - 0.77rem - 0.92rem - 
+1.11rem - 1.33rem - 1.6rem - 1.92rem 
+2.3rem - 2.76rem - 3.32rem - 3.98rem - 4.78rem - 
+5.73rem - 6.88rem - 8.26rem
+
+Espaçamentos - Major Third - 1.250 
+
+2.1rem - 2.7rem - 3.3rem - 4.2rem - 5.2rem - 
+6.5rem - 8.2rem - 10.2rem - 12.8rem 
+1.6rem - 2rem - 2.5rem - 3.12rem - 3.9rem - 
+4.88rem - 6.1rem - 7.63rem - 9.54rem - 11.92rem
