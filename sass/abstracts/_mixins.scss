@@ -1,0 +1,35 @@
+@mixin respond($tamanho) {
+  @if $tamanho == tiny {
+    @media (max-width: 480px) {
+      @content;
+    }
+  } @else if $tamanho == small {
+    @media (max-width: 767px) {
+      @content;
+    }
+  } @else if $tamanho == medium {
+    @media (max-width: 991px) {
+      @content;
+    }
+  } @else if $tamanho == big {
+    @media (max-width: 1280px) {
+      @content;
+    }
+  } @else if $tamanho == large {
+    @media (max-width: 1366px) {
+      @content;
+    }
+  } @else if $tamanho == huge {
+    @media (max-width: 1920px) {
+      @content;
+    }
+  }
+}
+
+@mixin flex($flow: row, $justifiy: stretch, $align: start, $gap: 2rem) {
+  display: flex;
+  flex-flow: $flow;
+  justify-content: $justifiy;
+  align-items: $align;
+  gap: $gap;
+}
